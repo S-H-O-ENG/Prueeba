@@ -1,0 +1,1 @@
+En la prueba de conocimiento me sentí agobiado y un poco frustrado debido a que prácticamente no recordaba nada de JAVA, no logre recordar como declarar un array, ArrayList entre muchas otras cosas, no logre completar a prueba con éxito pese a que cuando aprendimos JAVA todo era muy fácil
